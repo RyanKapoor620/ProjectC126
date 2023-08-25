@@ -1,0 +1,22 @@
+.heading{
+    width: 100%;
+    font-size: 35px;
+    margin: 0px;
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+body{
+    background-size: cover;
+    font-family: 'Righteous', cursive;
+}
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+#song_name{
+    border-radius:10px;
+    font-size: 18px;
+}
